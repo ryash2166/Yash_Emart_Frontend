@@ -1,0 +1,109 @@
+{
+    "Plant": [
+      {
+        "id": 0,
+        "name": "Bird's Nest Leslie",
+        "price": 45.00,
+        "d_price": 30.00,
+        "discount":"-33%",
+        "type":"Indoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/LzGYJQw/Birds-Nest-Leslie-Fern.webp"
+      },
+      {
+        "id": 1,
+        "name": "Monstera Plant",
+        "price": 60.00,
+        "d_price": 48.00,
+        "discount":"-20%",
+        "type":"Outdoor Plants",
+        "description": "Hurry up only 13 items left",
+        "img": "https://i.ibb.co/hVJx4HS/Monstera.webp"
+      },
+      {
+        "id": 2,
+        "name": "Haworthia",
+        "price": 87.00,
+        "d_price": 70.00,
+        "discount":"-20%",
+        "type":"Outdoor Plants",
+        "description": "Hurry up only 11 items left",
+        "img": "https://i.ibb.co/GvBFP62/Haworthia.webp"
+      },
+      {
+        "id": 3,
+        "name": "Monstera Plant",
+        "price": 60.00,
+        "d_price": 60.00,
+        "type":"Indoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/hVJx4HS/Monstera.webp"
+      },
+      {
+        "id": 4,
+        "name": "Bird's Nest Fern",
+        "price": 68.00,
+        "d_price": 54.00,
+        "discount":"-21%",
+        "type":"Outdoor Plants",
+        "description": "Hurry up only 15 items left",
+        "img": "https://i.ibb.co/23gBcS0/Birds-nest-fern-01.webp"
+      },
+      {
+        "id": 5,
+        "name": "Peperomia Plans",
+        "price": 57.00,
+        "d_price": 57.00,
+        "type":"Indoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/wL597sr/Rubber-Plant.webp"
+      },
+      {
+        "id": 6,
+        "name": "Peace Lily",
+        "price":72.00,
+        "d_price": 64.00,
+        "discount":"-11%",
+        "type":"Outdoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/jJXmFHP/peace-lily-02.webp"
+      },
+      {
+        "id": 7,
+        "name": "Succulent Plant",
+        "price": 67.00,
+        "d_price": 67.00,
+        "type":"Indoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/JxxhhVW/Succulent-Plant.webp"
+      },
+      {
+        "id": 8,
+        "name": "Barrel Cactus",
+        "price": 67.00,
+        "d_price": 67.00,
+        "type":"Outdoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/qpd8w5v/barrel-cactus-01.webp"
+      },
+      {
+        "id": 9,
+        "name": "Philodendron Plant",
+        "price": 63.00,
+        "d_price": 63.00,
+        "type":"Indoor Plants",
+        "description": "In stock",
+        "img": "https://i.ibb.co/8dDdB4B/Philodendron-Birkin-Plant.webp"
+      },
+      {
+        "id": 10,
+        "name": "Snake Plant",
+        "price": 54.00,
+        "d_price": 40.00,
+        "discount":"-26%",
+        "type":"Outdoor Plants",
+        "description": "Hurry up only 9 items left",
+        "img": "https://i.ibb.co/9nJ82Lw/Snake-Plant.webp"
+      }
+    ]
+  }
